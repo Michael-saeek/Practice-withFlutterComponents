@@ -5,7 +5,7 @@ This is a new Flutter project
 
 This project is a starting point for a Flutter application.
 
-[<img width="250" alt="image Flutter Component" src="https://github.com/Michael-saeek/Practice-withFlutterComponents/fl_components/assets/screenshot-appcomponents.jpg">]
+[<img width="250" alt="image Flutter Component" src="https://github.com/Michael-saeek/Practice-withFlutterComponents/blob/main/assets/screenshot-appcomponents.jpg">]
 _This is the app created_
 
 
